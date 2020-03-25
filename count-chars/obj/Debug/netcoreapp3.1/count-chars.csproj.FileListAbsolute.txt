@@ -1,0 +1,11 @@
+D:\escuela\progra\count-chars\bin\Debug\netcoreapp3.1\count-chars.exe
+D:\escuela\progra\count-chars\bin\Debug\netcoreapp3.1\count-chars.deps.json
+D:\escuela\progra\count-chars\bin\Debug\netcoreapp3.1\count-chars.runtimeconfig.json
+D:\escuela\progra\count-chars\bin\Debug\netcoreapp3.1\count-chars.runtimeconfig.dev.json
+D:\escuela\progra\count-chars\bin\Debug\netcoreapp3.1\count-chars.dll
+D:\escuela\progra\count-chars\bin\Debug\netcoreapp3.1\count-chars.pdb
+D:\escuela\progra\count-chars\obj\Debug\netcoreapp3.1\count-chars.csprojAssemblyReference.cache
+D:\escuela\progra\count-chars\obj\Debug\netcoreapp3.1\count-chars.AssemblyInfoInputs.cache
+D:\escuela\progra\count-chars\obj\Debug\netcoreapp3.1\count-chars.AssemblyInfo.cs
+D:\escuela\progra\count-chars\obj\Debug\netcoreapp3.1\count-chars.dll
+D:\escuela\progra\count-chars\obj\Debug\netcoreapp3.1\count-chars.pdb
